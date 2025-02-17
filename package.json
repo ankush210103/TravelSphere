@@ -1,0 +1,19 @@
+{
+  "name": "travelsphere",
+  "version": "1.0.0",
+  "description": "travelling website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankush210103/TravelSphere.git"
+  },
+  "author": "Ankush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankush210103/TravelSphere/issues"
+  },
+  "homepage": "https://github.com/ankush210103/TravelSphere#readme"
+}
